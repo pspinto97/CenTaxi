@@ -11,6 +11,7 @@
 #define Limite 20
 
 
+// Teste
 int processaMensagem(TCHAR* opcao, TCHAR* resposta, int* ntaxis, matr* todosTaxis) {
 
 	TCHAR opt[20];
